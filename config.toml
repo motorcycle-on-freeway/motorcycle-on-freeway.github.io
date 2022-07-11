@@ -1,4 +1,4 @@
-baseurl = "motorcycle-on-freeway.github.io"
+baseurl = "https://motorcycle-on-freeway.github.io/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "重機上國道的真相"
