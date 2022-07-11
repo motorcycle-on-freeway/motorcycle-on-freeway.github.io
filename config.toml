@@ -47,7 +47,7 @@ publishDir = "./docs/"
 #  desc = "Hexagon"
 
 [Author]
-  name = "motorcycle-on-freeway"
+  name = ""
   website = "https://motorcycle-on-freeway.github.io/"
   #email = "fuyuanli062"
   #facebook = "FuYuan.Li.0625"
