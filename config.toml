@@ -10,7 +10,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "fuyuanspace"
+disqusShortname = "motorcycle-on-freeway"
 #googleAnalytics = "UA-71770666-1"
 publishDir = "./docs/"
 
@@ -18,7 +18,7 @@ publishDir = "./docs/"
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "交通部不願讓你知道的真相"
   mainSections = ["post","posts"]
-  #logo = "https://github.com/fuyuanli.png" # Expecting square dimensions
+  #logo = "g" # Expecting square dimensions
   favicon = "images/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -28,7 +28,7 @@ publishDir = "./docs/"
   wordCount = false
   useHLJS = true
   socialShare = true
-  delayDisqus = true
+  delayDisqus = false
   showRelatedPosts = true
   hideAuthor = true
   selfHosted = true
@@ -78,10 +78,6 @@ publishDir = "./docs/"
   #discord = "invite code (https://discord.gg/XXXXXXX)"
   #strava = "userid"
 
-#[[menu.main]]
-#    name = "友站連結"
-#    url = "page/friends-website"
-#    weight = 4
 
 #[[menu.main]]
 #    identifier = "samples"
